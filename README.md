@@ -43,14 +43,6 @@ By default, the LMS comes with an admin account. Use the following credentials t
 - **Email-1:** `user1@gmail.com`
 - **Password-1:** `123456789@Lms`
 
-## Installation
-
- Clone the project 
-
-```bash
-git@github.com:Princegupta101/Larning-Management-System.git
-```
-
 ### Setup instruction  for Frontend
 
 1. Move into the directory
